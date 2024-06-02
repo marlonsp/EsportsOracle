@@ -5,3 +5,7 @@ Este projeto combina técnicas de web scraping e aprendizado de máquina para pr
  - data: Contém os conjuntos de dados brutos e processados.
  - files: Jupyter Notebooks autoexplicativos que detalham o processo de web scraping, pré-processamento de dados, modelagem e avaliação de desempenho.
  - README.md: Documentação principal do projeto.
+
+## Integrantes
+- Fernanda de Oliveira Pereira
+- Marlon Silva Pereira
